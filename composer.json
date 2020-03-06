@@ -1,0 +1,6 @@
+{
+    "name": "academia/battleship",
+    "require": {
+        "phpunit/phpunit": "^9.0"
+    }
+}
